@@ -32,7 +32,7 @@ To use the program, follow these steps:
 Run the virtualmouse.py file in your Python environment:
 ```
 python virtualmouse.py
-```
+``` 
 Your computer's default camera will activate, and the program will start detecting your hand movements.
 
 Move your hand in the air to control the mouse cursor. The cursor will follow the position of your middle finger tip.
